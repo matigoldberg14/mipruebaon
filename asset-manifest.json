@@ -1,7 +1,7 @@
 {
   "main.css": "/mipruebaon/static/css/main.4d107cb2.chunk.css",
-  "main.js": "/mipruebaon/static/js/main.eca4012f.chunk.js",
-  "main.js.map": "/mipruebaon/static/js/main.eca4012f.chunk.js.map",
+  "main.js": "/mipruebaon/static/js/main.348d2ea8.chunk.js",
+  "main.js.map": "/mipruebaon/static/js/main.348d2ea8.chunk.js.map",
   "static/js/1.e5c3fa12.chunk.js": "/mipruebaon/static/js/1.e5c3fa12.chunk.js",
   "static/js/1.e5c3fa12.chunk.js.map": "/mipruebaon/static/js/1.e5c3fa12.chunk.js.map",
   "runtime~main.js": "/mipruebaon/static/js/runtime~main.5e651f2f.js",
@@ -10,6 +10,6 @@
   "static/media/cuadroGrande.jpg": "/mipruebaon/static/media/cuadroGrande.8a2bb870.jpg",
   "static/css/main.4d107cb2.chunk.css.map": "/mipruebaon/static/css/main.4d107cb2.chunk.css.map",
   "index.html": "/mipruebaon/index.html",
-  "precache-manifest.220f53f207e555cbf1ee09c99c2250ef.js": "/mipruebaon/precache-manifest.220f53f207e555cbf1ee09c99c2250ef.js",
+  "precache-manifest.fa557b1d7875d9bd7d35099db91ed3c1.js": "/mipruebaon/precache-manifest.fa557b1d7875d9bd7d35099db91ed3c1.js",
   "service-worker.js": "/mipruebaon/service-worker.js"
 }
